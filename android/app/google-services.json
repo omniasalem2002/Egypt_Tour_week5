@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "920883909233",
+    "project_id": "egypttourguide",
+    "storage_bucket": "egypttourguide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920883909233:android:1715ba6fbff094ec66c1d0",
+        "android_client_info": {
+          "package_name": "com.egypttravel.guru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920883909233-doiafcch0855l63r4oqggvd85ff7pn9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egypttravel.guru",
+            "certificate_hash": "7686bfa42cc7569339c0cedb3d40b74967338fea"
+          }
+        },
+        {
+          "client_id": "920883909233-nfk0iop989bi5bf9f05lulmqf1667l2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egypttravel.guru",
+            "certificate_hash": "4504914042e0f9f81759e7bbc48877551b736f64"
+          }
+        },
+        {
+          "client_id": "920883909233-nrh0o13n2d3rv2qiv10r1fj1004qgsc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egypttravel.guru",
+            "certificate_hash": "729e8fd5c3ada03c8714ef5c95804c3a1add233a"
+          }
+        },
+        {
+          "client_id": "920883909233-s4175tbrce3umcvs7mo761dr7a0m2946.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egypttravel.guru",
+            "certificate_hash": "6936b148165410108c73911c055cddddd6c908ee"
+          }
+        },
+        {
+          "client_id": "920883909233-9cpd8976ktohpj9mnedngave0cab9mbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuZiUrH7qYyL0JCLPxb05rRqEtVaib8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920883909233-9cpd8976ktohpj9mnedngave0cab9mbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920883909233-rcrsg6nglfo5bphi37jc7tetn1lq4a2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.egypttravel.guru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
